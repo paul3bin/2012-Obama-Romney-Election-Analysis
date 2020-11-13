@@ -8,6 +8,19 @@ sns.set_style('whitegrid')
 import requests#to pull http requests
 from io import StringIO
 
+#Election Data Project - Polls and Donors
+
+
+#Questions
+"""
+1.  Who was being polled and what was their party affiliation
+2.  Did poll results favor Romney or Obama?
+3.  How do undecided voters affect the poll?
+4.  Can we account for the undecided voters?
+5.  How did voter sentiment change over time?
+6.  Can we see an effect in the polls from the debates?
+"""
+
 #Part 1
 
 #Url given below the source of data
